@@ -1,0 +1,3 @@
+Flask==2.3.2
+PixelLib==0.7.1
+opencv-python==4.9.0.80
